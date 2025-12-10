@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "product_id": 3,
+        "sale_amount": 20
+    },
+    {
+        "id": 2,
+        "product_id": 6,
+        "sale_amount": 35
+    },
+    {
+        "id": 3,
+        "product_id": 9,
+        "sale_amount": 15
+    },
+    {
+        "id": 4,
+        "product_id": 14,
+        "sale_amount": 40
+    },
+    {
+        "id": 5,
+        "product_id": 17,
+        "sale_amount": 10
+    },
+    {
+        "id": 6,
+        "product_id": 18,
+        "sale_amount": 12
+    },
+    {
+        "id": 7,
+        "product_id": 22,
+        "sale_amount": 50
+    },
+    {
+        "id": 8,
+        "product_id": 24,
+        "sale_amount": 65
+    }
+]

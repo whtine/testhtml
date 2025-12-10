@@ -1,0 +1,14 @@
+<figure class="catalog-item">
+    <img src="img/<%- img.src%>" alt="<%- img.alt%>" class="catalog-item-img">
+    <figcaption class="catalog-content">
+        <h3 class="catalog-item-title"><%- name%></h3>
+        <p class="catalog-item-price">
+            <% if (isSale) { %>
+                <span class="price-old">$<%- price%></span>
+                <span class="price-sale">$<%- salePrice %></span>
+            <% } else { %>
+                $<%- price%>
+            <% } %>
+        </p>
+    </figcaption>
+</figure>

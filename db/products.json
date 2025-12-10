@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "name": "Pretty T-shirt",
+        "price": 20,
+        "color": "#ffffff",
+        "category": "t-shirt",
+        "img": {
+            "src": "m-1.jpg",
+            "alt": "male white t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "name": "Beautifull Top",
+        "price": 25,
+        "color": "#ffff00",
+        "category": "t-shirt",
+        "img": {
+            "src": "f-1.jpg",
+            "alt": "female yellow t-shirt"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 3,
+        "name": "Grey Top",
+        "price": 18,
+        "color": "grey",
+        "category": "t-shirt",
+        "img": {
+            "src": "m-2.jpg",
+            "alt": "male grey t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "name": "Fancy Yellow T-shirt",
+        "price": 17,
+        "color": "#ffff00",
+        "category": "t-shirt",
+        "img": {
+            "src": "m-3.jpg",
+            "alt": "male yellow t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 5,
+        "name": "Fancy Jersey",
+        "price": 21,
+        "color": "red",
+        "category": "t-shirt",
+        "img": {
+            "src": "f-2.jpg",
+            "alt": "female red t-shirt"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 6,
+        "name": "#ffffff T-shirt",
+        "price": 17.5,
+        "color": "#ffffff",
+        "category": "t-shirt",
+        "img": {
+            "src": "f-3.jpg",
+            "alt": "female white t-shirt"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 7,
+        "name": "#00ff00 Top",
+        "color": "#00ff00",
+        "price": 22,
+        "category": "t-shirt",
+        "img": {
+            "src": "f-4.jpg",
+            "alt": "female green t-shirt"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 8,
+        "name": "Nice White Trousers",
+        "price": 16,
+        "color": "#ffffff",
+        "category": "trousers",
+        "img": {
+            "src": "f-5.jpg",
+            "alt": "female white trousers"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 9,
+        "name": "Great Red T-shirt",
+        "price": 17,
+        "color": "red",
+        "category": "t-shirt",
+        "img": {
+            "src": "m-4.jpg",
+            "alt": "male red t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 10,
+        "name": "#00ff00 Top",
+        "color": "#00ff00",
+        "price": 18,
+        "category": "t-shirt",
+        "img": {
+            "src": "m-5.jpg",
+            "alt": "male green t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 11,
+        "name": "Pretty Tee",
+        "color": "grey",
+        "price": 14,
+        "category": "t-shirt",
+        "img": {
+            "src": "m-6.jpg",
+            "alt": "male grey t-shirt"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 12,
+        "name": "#000000",
+        "color": "#000000",
+        "price": 15,
+        "category": "trousers",
+        "img": {
+            "src": "m-7.jpg",
+            "alt": "male black trousers"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 13,
+        "name": "#ffff00 Pants",
+        "color": "#ffff00",
+        "price": 16.5,
+        "category": "trousers",
+        "img": {
+            "src": "m-8.jpg",
+            "alt": "male yellow trousers"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 14,
+        "name": "Red Pants",
+        "color": "red",
+        "price": 17.5,
+        "img": {
+            "src": "f-6.jpg",
+            "alt": "female red trousers"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 15,
+        "name": "Cute yellow trousers",
+        "color": "#ffff00",
+        "price": 14,
+        "category": "shorts",
+        "img": {
+            "src": "f-7.jpg",
+            "alt": "female yellow shorts"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 16,
+        "name": "#00ff00 Shorts",
+        "color": "#00ff00",
+        "price": 15,
+        "category": "shorts",
+        "img": {
+            "src": "f-8.jpg",
+            "alt": "female green shorts"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 17,
+        "name": "Pretty Red Shorts",
+        "color": "red",
+        "price": 16,
+        "category": "shorts",
+        "img": {
+            "src": "f-9.jpg",
+            "alt": "female red shorts"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 18,
+        "name": "Cool Green Pants",
+        "color": "#00ff00",
+        "price": 17,
+        "category": "trousers",
+        "img": {
+            "src": "m-9.jpg",
+            "alt": "male green trousers"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 19,
+        "name": "Awesome White Pants",
+        "color": "#ffffff",
+        "category": "trousers",
+        "price": 19,
+        "img": {
+            "src": "m-10.jpg",
+            "alt": "male white trousers"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 20,
+        "name": "Awesome Red Pants",
+        "color": "red",
+        "price": 17,
+        "category": "trousers",
+        "img": {
+            "src": "m-11.jpg",
+            "alt": "male red trousers"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 21,
+        "name": "Nice Female Bag",
+        "color": "#000000",
+        "price": 24,
+        "category": "bag",
+        "img": {
+            "src": "f-10.jpg",
+            "alt": "female black bag"
+        },
+        "gender": "female"
+    },
+    {
+        "id": 22,
+        "name": "Great Men Bag",
+        "color": "#000000",
+        "price": 21,
+        "category": "bag",
+        "img": {
+            "src": "m-10.jpg",
+            "alt": "male black bag"
+        },
+        "gender": "male"
+    },
+    {
+        "id": 23,
+        "name": "Fancy Universal Bag",
+        "color": "#ffffff",
+        "price": 22,
+        "category": "bag",
+        "img": {
+            "src": "u-1.jpg",
+            "alt": "unisex white bag"
+        },
+        "gender": "unisex"
+    },
+    {
+        "id": 24,
+        "name": "Cool Unisex Bag",
+        "color": "#000000",
+        "price": 25,
+        "category": "bag",
+        "img": {
+            "src": "u-2.jpg",
+            "alt": "unisex black bag"
+        },
+        "gender": "unisex"
+    }
+]
